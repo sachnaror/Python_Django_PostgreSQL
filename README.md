@@ -22,16 +22,17 @@ This repository provides a basic structure for starting a Django project with a 
    - Replace the `DATABASES` configuration with your PostgreSQL database settings:
 
      ```python
-     DATABASES = {
-         'default': {
-             'ENGINE': 'django.db.backends.postgresql',
-             'NAME': 'dbtest',
-             'USER': 'myuser',
-             'PASSWORD': 'mypassword',
-             'HOST': 'localhost',
-             'PORT': '5432',
-         }
-     }
+    DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': env("DB_NAME"),
+        'USER': env("DB_USER"),
+        'PASSWORD': env("DB_PASSWORD"),
+        'HOST': env("DB_HOST"),
+        'PORT': env("DB_PORT"),
+    }
+}
+
      ```
    Replace `dbtest`, `myuser`, `mypassword` with your PostgreSQL database name, username, and password respectively.
 
