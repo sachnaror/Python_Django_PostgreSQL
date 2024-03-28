@@ -43,3 +43,5 @@ This repository provides a basic structure for starting a Django project with a 
 - Make sure PostgreSQL is running before starting the development server.
 - Customize the Django project according to your requirements.
 
+
+![alt text](/Users/homesachin/Desktop/Screenshot 2024-03-28 at 8.22.41 PM.png)
