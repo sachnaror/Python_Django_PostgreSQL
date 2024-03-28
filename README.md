@@ -45,3 +45,6 @@ This repository provides a basic structure for starting a Django project with a 
 
 
 ![alt text](/Users/homesachin/Desktop/Screenshot 2024-03-28 at 8.22.41 PM.png)
+
+
+/Users/homesachin/Desktop/Screenshot 2024-03-28 at 8.22.41 PM.png
