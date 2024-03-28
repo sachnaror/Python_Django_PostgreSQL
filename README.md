@@ -45,4 +45,5 @@ This repository provides a basic structure for starting a Django project with a 
 - Customize the Django project according to your requirements.
 
 
-![alt text](/Users/homesachin/Desktop/Screenshot 2024-03-28 at 8.22.41 PM.png)
+
+<img width="603" alt="Screenshot 2024-03-28 at 8 22 41 PM" src="https://github.com/sachnaror/Python_Django_PostgreSQL/assets/9551754/9398de51-8cdf-4818-8d8a-678e7e3e1e89">
